@@ -13,7 +13,7 @@ class Sword(Weapon):
 
 class Bow(Weapon):
     def attack(self):
-        return "Боец стреляет из лука."
+        return "Боец наносит удар из лука."
 
 # Шаг 3: Модифицируйте класс Fighter
 class Fighter:
